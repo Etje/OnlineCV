@@ -1,0 +1,528 @@
+.page {
+    margin: 0!important;
+}
+
+header.masthead {
+    background-position: right 25%;
+    background-repeat: no-repeat;
+}
+
+.home {
+    background-image: url('../assets/image/afbeelding10.png')!important;
+    background-repeat: no-repeat;
+}
+
+.portfolio {
+    background-image: url('../assets/image/afbeelding6.png')!important;    
+    background-position: center 25%!important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 85%;
+}
+
+.portfolio-item {
+    width: 75%;
+}
+
+#single_image img {
+    display: block;
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.beschrijving {
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+.button {
+    border: 2px solid #31475E;
+    border-radius: 15px;
+    color: #31475E;
+    font-weight: 600;
+    padding: 10px 15px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    width: 25%;
+}
+
+.button:visited {
+    color: #31475E;
+}
+
+.button:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.contact {
+    background-image: url('../assets/image/afbeelding8.png')!important;    
+    background-position: center 25%!important;
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+#contact div p {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px; 
+    font-weight: 600;
+}
+
+#contact div p:nth-child(2) {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px; 
+    font-weight: 600;
+}
+
+#portfolio-items {
+    background-color: transparent;
+}
+
+#ervaring {
+    background-image: url('../assets/image/afbeelding2.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*.over-mij-header {
+    background-image: url('../assets/image/afbeelding11.png')!important;    
+    background-position: center!important;
+    background-repeat: no-repeat;
+    background-size: contain;
+}*/
+
+#over-mij div div {
+    margin: 1%;
+}
+
+#over-mij div div p {
+    width: 55%;
+    float: left;
+    font-size: 17px;
+    padding-left: 25px;
+}
+
+.Over_mij_foto {
+    width: 32%;
+    float: left;
+}
+
+.tweedeFunctie div {
+    padding-top: 0!important;
+}
+
+#ervaring, #opleiding, #skills, #eigenschappen, #footer {
+    padding: 75px 0px;
+}
+
+header.masthead div div h1.masthead-heading, header.masthead div div h2.masthead-subheading {
+    text-align: left;
+}
+
+header.masthead div div h2.masthead-subheading {
+    font-size: 35px;
+    font-weight: 400 !important;
+}
+
+header.masthead div div button {
+    padding: 5px 30px;
+    background: transparent;
+    color: #000000;
+    border: 2px solid rgba(0, 0, 0, 0.7);
+    margin-top: 15px;
+}
+
+header.masthead div div {
+    margin-left: 500px;
+}
+
+.navbar-custom div.container div#navbarResponsive ul.navbar-nav {
+    width: 100%;
+    margin: 0;
+}
+
+.navbar-custom div.container div#navbarResponsive ul.navbar-nav li {
+    width: 13%;
+    list-style-type: none;
+    text-align: center;
+}
+
+#myNavBarContainerId {
+    width: 100%;
+}
+
+#myNavBarMenuId {
+    margin: 0;
+}
+
+#myNavBarMenuId ul {
+    width: 100%;
+}
+
+#navbarResponsive ul li a, .navbar-custom div a {
+    color: #fff!important; 
+    margin: 0;
+}
+
+.navbar-custom {
+    background-color: #31475E;
+}
+
+.company-name, .school-name {
+    font-size: 2.5rem;
+}
+
+.company-function, .school-education {
+    font-size: 1.5rem; 
+}
+
+.Vline {
+    border-left: 2px solid rgba(0, 0, 0, 0.1); 
+    height: 50px;
+}
+
+.second-function {
+    margin-top: 1rem;
+}
+
+#opleiding {
+    background-image: url('../assets/image/afbeelding5.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#opleiding div.square {
+    display: block;
+    background-color: rgb(0, 0, 255);
+    width: 940px;
+    height: 600px;
+    position: absolute;
+    right: 660px;
+    margin-top: -40px;
+    z-index: -1;
+}
+
+#opleiding div.container, #ervaring div.container, #ervaring {
+    z-index: -1;
+}
+
+#ervaring div.container div div div h3 {
+    color: #888888;
+}
+
+#ervaring div.container div div div h4, #opleiding div.container div div div h4 {
+    color: #FF4E12;
+}
+
+#skills div p.overige {
+    width: 75%;
+    margin: 0 auto;
+    padding: 25px;
+    font-size: 20px;
+}
+
+#skills div div div div i, #skills div div div div h4 {
+    display: block;
+    text-align: center;
+    padding: 10px 0px;
+    width: 45%;
+    margin: 0 auto;
+}
+
+#skills div.container div.row div.item {
+    float: left;
+}
+
+#skills div.container div.row div.item div.single-service {
+    padding: 25px;
+}
+
+#skills div.container div.row div.item div.single-service i::before {
+    font-size: 50px;
+}
+
+.eigenschappen-list {
+    margin: 0 auto;
+    display: table;
+}
+
+.eigenschappen-list li {
+    list-style-type: none;
+    padding: 5px; 
+    text-align: center;
+    white-space: nowrap;
+    display: table;
+}
+
+.eigenschappen-list li::before {
+    content: "\2713";
+    display:inline-block;
+    line-height: 1em;
+    width: 1em;
+    height:1em;
+    margin-right: 0.3em;
+    text-align: center;
+    color: #999;
+}
+
+#footer {
+    height: 200px;
+    background: rgb(0, 0, 0);
+    display: table;
+    width: 100%;
+    z-index: 1;
+}
+
+#footer div.container {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.cv-btn {
+    display: block;
+    margin: 0 auto;
+    padding: 5px 30px;
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+}
+
+.download-btn:hover {
+    color: rgb(206, 206, 206)!important;
+}
+
+#footer div p {
+    padding: 20px;
+}
+
+#skillsEigenschappenFooterBackground {
+    background-image: url('../assets/image/afbeelding3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.id-title {
+    font-size: 5rem;
+    padding: 25px 0px;
+    padding-top: 0px;
+    color: black;
+}
+
+.id-subtitle {
+    font-size: 3rem;
+    padding: 25px 0px;
+    padding-top: 0px;
+    color: black;
+}
+
+#portfolio-items div.container {
+    padding: 50px 0px;
+}
+
+#portfolio-items div.container div.row div div span.portfolio-content img {
+    float: left;
+}
+
+#portfolio-items div.container div.row div div span.portfolio-content p.beschrijving {
+    float: left;
+    width: 60%;
+    padding: 0px 20px;
+    font-size: 17px; 
+    font-weight: 600;
+}
+
+.portfolio-image {
+    background-image: url('../assets/image/afbeelding7.png');
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1920px) {
+    header.masthead div div {
+        margin-left: 250px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+
+    #ervaring {
+        background-repeat: no-repeat;
+    }
+
+    #skillsEigenschappenFooterBackground {
+        background-size: 100%;
+    }
+
+    header.masthead div div {
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    #opleiding {
+        background-size: contain;
+        background-position: left;
+    }
+
+    .home {
+        background-size: 0;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    #single_image img {
+        max-width: 80%;
+    }
+
+    .beschrijving {
+        width: 100%;
+        padding: 40px;
+    }
+
+    .button {
+        width: 50%; 
+    }
+
+    .navbar-dark .navbar-toggler {
+        background-color: black;
+    }
+
+    .navbar-custom div.container div#navbarResponsive ul.navbar-nav li {
+        width: 100%;
+        font-size: 20px;
+        background-color: rgba(0,0,0,0.2);
+        margin: 5px;
+    }
+
+    .Over_mij_foto {
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+
+    #over-mij div div p {
+        width: 100%; 
+        padding: 0;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .id-title {
+        font-size: 4rem;
+    }
+
+    .p-5 {
+        padding-top: 0!important;
+        padding-bottom: 0!important;
+    }
+
+    .portfolio-image {
+        display: none;
+    }
+
+    #portfolio-items div.container div.row div div span.portfolio-content img {
+        float: none;
+    }
+
+    #portfolio-items div.container div.row div div span.portfolio-content p.beschrijving {
+        float: none;
+        width: 100%;
+        padding-top: 35px; 
+    }
+
+    #single_image img {
+        width: 50%; 
+        display: block; 
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 641px) {
+
+    .portfolio-item {
+        width: 100%; 
+    }
+    
+    .button {
+        width: 75%;
+    }
+    
+    header.masthead .masthead-content .masthead-heading {
+        font-size: 3rem; 
+        width: 75%;
+    }
+    
+    header.masthead div div h2.masthead-subheading {
+        font-size: 28px!important;
+        width: 65%; 
+    }
+    
+    .id-title {
+        font-size: 3.5rem;
+    }
+    
+    .id-subtitle {
+        font-size: 2rem;
+    }
+
+    .company-name, .school-name {
+        font-size: 2rem;
+    }
+
+    .company-function, .school-education, h4 {
+        font-size: 1.25rem;
+    }
+
+    .over-mij-header {
+        background: 0;
+    }
+
+    .Over_mij_foto {
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 375px) {
+
+    .id-subtitle {
+        font-size: 1.5rem;
+    }
+
+    header.masthead div div {
+        margin-left: 0;
+    }
+
+    header.masthead .masthead-content .masthead-heading {
+        font-size: 3rem;
+    }
+
+    header.masthead div div h2.masthead-subheading {
+        font-size: 30px!important;
+    }
+
+    .id-title {
+        font-size: 3rem;
+    }
+
+    .company-name, .school-name {
+        font-size: 2rem;
+    }
+}
+
