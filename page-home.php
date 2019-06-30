@@ -108,7 +108,7 @@ get_header();
             </div>
                 <div class="container">
                     <p class="text-center bg-black text-white overige">
-                        Tevens heb ik ervaring met agile werkmethodes, frameworks zoals Spring Boot, maar ook met verschillende database structuren waaronder SQL, Mysql en MongoDB
+                        Tevens heb ik ervaring met agile werkmethodes, 'n framework zoals Spring, maar ook met verschillende database structuren waaronder SQL, Mysql en MongoDB
                     </p>
                 </div>
     </section>
